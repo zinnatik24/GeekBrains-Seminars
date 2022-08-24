@@ -1,0 +1,15 @@
+/Volumes/GoogleDrive/My Drive/Data Analytics/Education/GeekBrains/Seminars/Seminar C# 6 matrix/bin/Debug/net6.0/Seminar C# 6 matrix
+/Volumes/GoogleDrive/My Drive/Data Analytics/Education/GeekBrains/Seminars/Seminar C# 6 matrix/bin/Debug/net6.0/Seminar C# 6 matrix.deps.json
+/Volumes/GoogleDrive/My Drive/Data Analytics/Education/GeekBrains/Seminars/Seminar C# 6 matrix/bin/Debug/net6.0/Seminar C# 6 matrix.runtimeconfig.json
+/Volumes/GoogleDrive/My Drive/Data Analytics/Education/GeekBrains/Seminars/Seminar C# 6 matrix/bin/Debug/net6.0/Seminar C# 6 matrix.dll
+/Volumes/GoogleDrive/My Drive/Data Analytics/Education/GeekBrains/Seminars/Seminar C# 6 matrix/bin/Debug/net6.0/Seminar C# 6 matrix.pdb
+/Volumes/GoogleDrive/My Drive/Data Analytics/Education/GeekBrains/Seminars/Seminar C# 6 matrix/obj/Debug/net6.0/Seminar C# 6 matrix.csproj.AssemblyReference.cache
+/Volumes/GoogleDrive/My Drive/Data Analytics/Education/GeekBrains/Seminars/Seminar C# 6 matrix/obj/Debug/net6.0/Seminar C# 6 matrix.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/GoogleDrive/My Drive/Data Analytics/Education/GeekBrains/Seminars/Seminar C# 6 matrix/obj/Debug/net6.0/Seminar C# 6 matrix.AssemblyInfoInputs.cache
+/Volumes/GoogleDrive/My Drive/Data Analytics/Education/GeekBrains/Seminars/Seminar C# 6 matrix/obj/Debug/net6.0/Seminar C# 6 matrix.AssemblyInfo.cs
+/Volumes/GoogleDrive/My Drive/Data Analytics/Education/GeekBrains/Seminars/Seminar C# 6 matrix/obj/Debug/net6.0/Seminar C# 6 matrix.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive/My Drive/Data Analytics/Education/GeekBrains/Seminars/Seminar C# 6 matrix/obj/Debug/net6.0/Seminar C# 6 matrix.dll
+/Volumes/GoogleDrive/My Drive/Data Analytics/Education/GeekBrains/Seminars/Seminar C# 6 matrix/obj/Debug/net6.0/refint/Seminar C# 6 matrix.dll
+/Volumes/GoogleDrive/My Drive/Data Analytics/Education/GeekBrains/Seminars/Seminar C# 6 matrix/obj/Debug/net6.0/Seminar C# 6 matrix.pdb
+/Volumes/GoogleDrive/My Drive/Data Analytics/Education/GeekBrains/Seminars/Seminar C# 6 matrix/obj/Debug/net6.0/Seminar C# 6 matrix.genruntimeconfig.cache
+/Volumes/GoogleDrive/My Drive/Data Analytics/Education/GeekBrains/Seminars/Seminar C# 6 matrix/obj/Debug/net6.0/ref/Seminar C# 6 matrix.dll

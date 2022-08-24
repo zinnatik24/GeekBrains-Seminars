@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/Users/zinnatmaks/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Volumes/GoogleDrive/My Drive/Data Analytics/Education/GeekBrains/Seminars/Seminar C# 6 matrix/Seminar C# 6 matrix.csproj",
+      "projectName": "Seminar C# 6 matrix",
+      "projectPath": "/Volumes/GoogleDrive/My Drive/Data Analytics/Education/GeekBrains/Seminars/Seminar C# 6 matrix/Seminar C# 6 matrix.csproj",
+      "packagesPath": "/Users/zinnatmaks/.nuget/packages/",
+      "outputPath": "/Volumes/GoogleDrive/My Drive/Data Analytics/Education/GeekBrains/Seminars/Seminar C# 6 matrix/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/zinnatmaks/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
